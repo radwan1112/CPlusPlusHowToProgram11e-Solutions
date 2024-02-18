@@ -8,4 +8,6 @@
 
 # Ignore the .vscode folder
 .vscode/
-.bin/
+
+# Ignore the bin folder
+bin/
