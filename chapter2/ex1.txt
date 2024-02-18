@@ -1,0 +1,7 @@
+a) Comments
+b) std::cout
+c) if statment
+d) expression
+f) division
+g) The nested parentheses
+h) variable, address

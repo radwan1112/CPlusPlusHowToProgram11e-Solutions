@@ -1,0 +1,4 @@
+a) std::cin is an object of the 'istream' class defined in the standard library. it is used to read inputs from the standard input stream,
+typically the keyboard. Can be used with the extraction operator >> to input different types of data.
+b) is an object of the 'ostream' class defined in the standard library. it is used to preform output to the standard output stream,
+typically the console or terminal. can be used along with the insertion operator << to output  different types of data.

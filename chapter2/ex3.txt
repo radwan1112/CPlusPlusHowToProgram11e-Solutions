@@ -1,0 +1,13 @@
+a) false
+b) true
+c) true
+d) true
+e) false
+f) true
+g) true
+h) false
+i) false
+j) false
+k) false
+l) false
+m) false
