@@ -1,0 +1,6 @@
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore the .vscode folder
+.vscode/
