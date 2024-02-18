@@ -2,5 +2,9 @@
 *.o
 *.obj
 
+# Ignore executable files
+*.exe
+*.out
+
 # Ignore the .vscode folder
 .vscode/
