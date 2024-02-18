@@ -11,3 +11,12 @@
 
 # Ignore the bin folder
 bin/
+
+# Ignore all files in the root directory
+*
+
+# Exclude all directories (including subdirectories)
+!/**/
+
+# Ignore all files without extensions
+!*.*
