@@ -1,11 +1,11 @@
-# Ignore all files in the root directory
+# Ignore all
 *
 
-# Exclude all directories (including subdirectories)
-!/**/
-
-# Ignore all files without extensions
+# Unignore all with extensions
 !*.*
+
+# Unignore all dirs
+!*/
 
 # Ignore compiled object files
 *.o

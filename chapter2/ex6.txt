@@ -1,0 +1,9 @@
+a) 2
+b) 4
+c) x=
+d) x = 2
+e) 5 = 5
+f) nothing
+g) nothing
+h) nothing
+i) newline

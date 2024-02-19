@@ -1,0 +1,14 @@
+a) // This program calculates the product of three int
+b) 
+int x{0};
+int y{0};
+int z{0};
+int result{0};
+c)
+cout << "Enter three integers: ";
+d)
+cin >> x >> y >> z;
+e)
+result = x * y * z;
+f)
+cout << "The product is " << result;

@@ -1,0 +1,7 @@
+a) if(c < 7){
+    cout << "c is less than 7\n";
+}
+
+b) if(c >= 7){
+    cout << "c is equal to or greater than 7\n";
+}
