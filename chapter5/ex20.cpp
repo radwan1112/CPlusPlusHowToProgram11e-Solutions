@@ -10,15 +10,15 @@ int quality_points()
     {
         return 4;
     }
-    else if (avg >= 80 && avg < 90)
+    else if (avg >= 80)
     {
         return 3;
     }
-    else if (avg >= 70 && avg < 80)
+    else if (avg >= 70)
     {
         return 2;
     }
-    else if (avg >= 60 && avg < 70)
+    else if (avg >= 60)
     {
         return 1;
     }
